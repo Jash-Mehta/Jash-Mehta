@@ -1,12 +1,32 @@
 <h1 align="center">Hi 👋, I'm Jash Mehta</h1>
-<h3 align="center">🚀 Flutter Developer | Expert in Crafting User-Centric Applications As a committed Flutter developer, I excel at transforming design concepts into fully functional, visually appealing mobile applications. My experience spans both product-oriented roles and freelance projects, where I have refined my skills and worked closely with clients to deliver outstanding results. 🌟 Key Highlights: 2+ Years of Flutter Expertise: Possessing a deep understanding of Flutter’s capabilities, I create engaging and seamless user experiences. Full-Stack Proficiency: Experienced in working with Node.js, MongoDB, and MySQL, I develop comprehensive, scalable applications. Innovation-Driven Approach: I leverage my skills to deliver high-quality, innovative solutions, tailored to meet the unique needs of each project.</h3>
+<h3 align="center">🚀 Flutter Developer | Expert in Crafting User-Centric Applications</h3>
 
+<p align="center">
+  As a committed Flutter developer, I excel at transforming design concepts into fully functional, visually appealing mobile applications. My experience spans both product-oriented roles and freelance projects, where I have refined my skills and worked closely with clients to deliver outstanding results.
+</p>
+
+<h3 align="center">🌟 Key Highlights 🌟</h3>
+
+<p align="center">
+  🎯 <strong>2+ Years of Flutter Expertise:</strong> Possessing a deep understanding of Flutter’s capabilities, I create engaging and seamless user experiences.<br>
+  💻 <strong>Full-Stack Proficiency:</strong> Experienced in working with Node.js, MongoDB, and MySQL, I develop comprehensive, scalable applications.<br>
+  🚀 <strong>Innovation-Driven Approach:</strong> I leverage my skills to deliver high-quality, innovative solutions, tailored to meet the unique needs of each project.
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jash-mehta&label=Profile%20views&color=0e75b6&style=flat" alt="jash-mehta" /> </p>
+<p align="left"> <a href="https://twitter.com/Jashmeh45194130" target="blank"><img src="https://img.shields.io/twitter/follow/Jashmeh45194130?logo=twitter&style=for-the-badge" alt="Jashmeh45194130" /></a> </p>
+- 📫 How to reach me **jashmehta967@gmail.com**
+<br><br>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=jash-mehta&margin-w=15&margin-h=15" alt="jash-mehta" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jash-mehta" alt="jash-mehta" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/jashmehta94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jashmehta94" height="30" width="40" /></a>
+<a href="https://medium.com/jashmehta94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="jashmehta94" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
